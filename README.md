@@ -64,7 +64,7 @@ Ao concluir este desafio, aplicamos conhecimentos para:
 1. Faça o download deste repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/ferramenta-controle-investimentos.git
+   git clone https://github.com/seu-usuario/Ferramenta-Controle-Fundo-Imobili-rio.git
    ```
 
 2. Abra o arquivo `Ferramenta de Controle de Investimentos - Cópia.xlsx`
